@@ -3,7 +3,7 @@
 <H5 class="" align="right">
   Created By Secanonm
 </H5>
-<p align="center">HPomb Is Socail Engineering Tool , Used For Bombing , Spoofing and Anonymity Available For Linux</p><br>
+<p align="center">HPomb is a Social Engineering Tool , Used For Bombing , Spoofing and Anonymity Available For Linux</p><br>
 <img src="https://secanonm.in/hpomb/assets/img/hpomb/hpomb.jpg" alt="look">
 
 ![platforms](https://img.shields.io/badge/Platforms-Linux%20%7C%20MacOS-orange)
